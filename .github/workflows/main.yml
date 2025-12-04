@@ -1,6 +1,5 @@
 name: Install ffmpeg
 
-
 on: 
  workflow_dispatch:
 jobs:
