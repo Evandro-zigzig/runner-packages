@@ -1,6 +1,7 @@
-name: Install 
+name: Install ffmpeg
+
 on: 
-    workflow_dispatch:
+ workflow_dispatch:
 jobs:
     install:
       runs-on: ubuntu-latest
